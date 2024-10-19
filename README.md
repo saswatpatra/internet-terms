@@ -1,8 +1,11 @@
-# Internet Terms
-## 🎯Purpose
-[Z](#🅰)
+# 🌐Internet Terms
+
+## 🎯Purpose:
 
 This repository is a thesaurus of essential internet terms designed to help users understand key concepts in the digital world. Each entry is arranged alphabetically, providing clear definitions to promote digital literacy and confidence in navigating online spaces.
+
+## 🏷️Jump to letter:
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
 - **API:** (Application Programming Interface): A set of rules that allows different software applications to communicate.
@@ -180,7 +183,7 @@ This repository is a thesaurus of essential internet terms designed to help user
 - **Yahoo**: A web services provider known for its search engine, email service, and news aggregation.
 - **YouTube**: A video-sharing platform that allows users to upload, share, and view videos, widely used for entertainment, education, and marketing.
 
-### 🅰
+### Z
 - **Zero-Day Exploit**: A cyberattack that occurs on the same day a vulnerability is discovered, before a patch is available to fix it.
 - **Zigbee**: A wireless communication protocol designed for low-power, low-data-rate applications, commonly used in home automation and IoT devices.
 - **ZIP File**: A compressed file format that reduces the size of one or more files for easier storage and transfer.
