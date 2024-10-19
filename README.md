@@ -1,6 +1,6 @@
 # Internet Terms
 ## 🎯Purpose
-[Z](#z)
+[Z](#🅰)
 
 This repository is a thesaurus of essential internet terms designed to help users understand key concepts in the digital world. Each entry is arranged alphabetically, providing clear definitions to promote digital literacy and confidence in navigating online spaces.
 
@@ -180,7 +180,7 @@ This repository is a thesaurus of essential internet terms designed to help user
 - **Yahoo**: A web services provider known for its search engine, email service, and news aggregation.
 - **YouTube**: A video-sharing platform that allows users to upload, share, and view videos, widely used for entertainment, education, and marketing.
 
-### Z
+### 🅰
 - **Zero-Day Exploit**: A cyberattack that occurs on the same day a vulnerability is discovered, before a patch is available to fix it.
 - **Zigbee**: A wireless communication protocol designed for low-power, low-data-rate applications, commonly used in home automation and IoT devices.
 - **ZIP File**: A compressed file format that reduces the size of one or more files for easier storage and transfer.
